@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm kuo-Lun, Wang.
 
-<!--
-**kuolunwang/kuolunwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my [website](https://kuolunwang.github.io/).
 
-Here are some ideas to get you started:
+## I'm a Fire Dancer, Programmer, and Photographer.
+---
+- 🔭 I’m a student major in electrical and control engineering on NCTU
+- 🌱 I’m currently learning DL and RL apply on the robotics
+- ⚡ Fun fact: I love to fire dance :fire:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\
+![Kuolun's GitHub status](https://github-readme-stats.vercel.app/api?username=kuolunwang&show_icons=true&theme=radical)
+
+\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuolunwang)](https://github.com/kuolunwang/github-readme-stats)
