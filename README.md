@@ -9,4 +9,4 @@
 ![Kuolun's GitHub status](https://github-readme-stats.vercel.app/api?username=kuolunwang&show_icons=true&theme=radical)
 
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuolunwang&layout=compact)](https://github.com/kuolunwang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuolunwang&layout=compact)]
